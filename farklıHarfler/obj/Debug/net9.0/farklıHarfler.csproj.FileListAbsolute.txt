@@ -1,0 +1,14 @@
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\bin\Debug\net9.0\farklıHarfler.exe
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\bin\Debug\net9.0\farklıHarfler.deps.json
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\bin\Debug\net9.0\farklıHarfler.runtimeconfig.json
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\bin\Debug\net9.0\farklıHarfler.dll
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\bin\Debug\net9.0\farklıHarfler.pdb
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.AssemblyInfoInputs.cache
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.AssemblyInfo.cs
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.csproj.CoreCompileInputs.cache
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.dll
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\refint\farklıHarfler.dll
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.pdb
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\farklıHarfler.genruntimeconfig.cache
+C:\Users\ISKO\Documents\WorksForMe\farklıHarfler\obj\Debug\net9.0\ref\farklıHarfler.dll
